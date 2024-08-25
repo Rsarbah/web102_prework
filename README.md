@@ -36,6 +36,8 @@ GIF created with LICECap
 
 Describe any challenges encountered while building the app.
 
+I had trouble embedding the walkthrough video into the README.md file. But i added 2 gifs of the walthrough into the repository.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
