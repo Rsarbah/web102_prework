@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: **Your Name Here**
 
