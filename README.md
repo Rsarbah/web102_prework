@@ -2,7 +2,7 @@
 
 Submitted by: **Rafiatu Naaja Sarbah**
 
-**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company **Sea Monster** that displays information about the games they have funded.
 
 Time spent: **42** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./web102_prework/preworkgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/rafiatusarbah/Library/Mobile%20Documents/com~apple~CloudDocs/web102_prework/assets/preworkgif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap  
@@ -36,7 +36,7 @@ GIF created with LICECap
 
 Describe any challenges encountered while building the app.
 
-I had trouble embedding the walkthrough video into the README.md file. But i added 2 gifs of the walthrough into the repository.
+I had trouble embedding the walkthrough video into the README.md file. But I added 2 gifs of the walthrough into the repository.
 
 ## License
 
