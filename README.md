@@ -1,10 +1,10 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# WEB102 Prework - **Sea Monster Crowdfunding**
 
-Submitted by: Rafiatu Naaja Sarbah
+Submitted by: **Rafiatu Naaja Sarbah**
 
 Sea Monster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 42 hours spent in total
+Time spent: **42** hours spent in total
 
 ## Required Features
 
