@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./web102_prework/assets/preworkgif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./web102_prework/assets/preworkgif2.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap  
